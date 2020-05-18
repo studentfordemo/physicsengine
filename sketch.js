@@ -11,7 +11,7 @@ function setup(){
     world = engine.world;
 
     box1 = new Box(200,300,50,50);
-    bax2 = new Box(100,100,40,40);
+    box2 = new Box(100,100,40,40);
     ground= new Ground(200,390,400,20);
    
 }
